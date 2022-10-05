@@ -1,0 +1,17 @@
+.mainPage {
+  margin-top: 3%;
+  margin-left: 10%;
+
+  .tableHeaders {
+    background-color: #1976d2;
+
+    .MuiTableCell-root{
+      color: #FFF;
+      font-weight: bold;
+    }
+  }
+
+  .tableBody {
+    background-color: #dbe1ed;
+  }
+}

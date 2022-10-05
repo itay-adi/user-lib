@@ -1,0 +1,22 @@
+.textField {
+    text-align: center;
+    margin-top: 10%;
+
+    .MuiFormControl-root {
+        margin-left: 5%;
+    }
+}
+
+.modalButtons{
+    text-align: center;
+
+    .MuiButtonBase-root{
+        margin: 10% !important;
+        margin-top: 5% !important;
+        margin-bottom: 0 !important;
+    }
+
+    h5{
+        color: rgb(182, 25, 25);
+    }
+}
